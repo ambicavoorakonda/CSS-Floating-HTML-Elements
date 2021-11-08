@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    background-color: thistle;
+    margin: 0%;
+    font-size: 40px;
+    margin-top: 0px;  
+    padding: 10px;
+}
+body {
+    background-color: cornsilk;
+   margin-left: 10px; 
+   text-align: justify;
+   font-size: 20px;
+   padding: 16px;
+   padding-top: 0px;
+   line-height: 40px;
+   letter-spacing: 2px;
+}
+img {
+    float: left;
+    margin-right: 15px;
+    border-radius: 10px;
+}
